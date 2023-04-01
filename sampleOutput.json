@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "By <a href=\"/profiles/jessie-yeung\">Jessie Yeung</a>, Adam Renton, Jack Guy, <a href=\"/profiles/laura-smith-spark\">Laura Smith-Spark</a>, <a href=\"/profiles/adrienne-vogt\">Adrienne Vogt</a> and Melissa Macaya, CNN",
+            "title": "Volkswagen stops car production in Russia and suspends shipments - CNN",
+            "description": "Russia has ramped up assaults on key Ukrainian cities, as President Zelensky pleads for more international assistance and a second round of talks between Ukraine and Russia are set to take place. Follow here for live news updates from on the ground in Ukraine.",
+            "url": "https://www.cnn.com/europe/live-news/ukraine-russia-putin-news-03-03-22/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220303081307-ukraine-invasion-zhytomyr-030222-super-tease.jpg",
+            "publishedAt": "2022-03-03T16:21:00Z",
+            "content": "Russia's assault on Ukraine is just a week old, but its consequences have already been catastrophic.\r\nIn the seven days since Russian troops invaded their western neighbor, hundreds of people have be… [+2955 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "NFL free agency matchmaker: Projecting contracts, landing spots for 25 big-name 2022 free agents - CBS Sports",
+            "description": "The Colts make a big splash, the Saints add a QB, and Denver spends big",
+            "url": "https://www.cbssports.com/nfl/news/nfl-free-agency-matchmaker-projecting-contracts-landing-spots-for-25-big-name-2022-free-agents/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/03/02/87025f03-6a84-4502-a1cb-92346fd33d53/thumbnail/1200x675/8e80bf0690a8c30fec281102c4fcf644/gronk.jpg",
+            "publishedAt": "2022-03-03T16:17:00Z",
+            "content": "The 2022 NFL offseason will officially begin on March 16, but free agency talk is already well underway. Veterans with expiring contracts can begin negotiations with other teams on March 14, and that… [+8249 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Yaroslav Trofimov, Stacy Meichtry",
+            "title": "Russian Forces Advance in Southern Ukraine Amid Cease-Fire Talks - The Wall Street Journal",
+            "description": "Ukrainian forces hold back Russia’s advance on Kyiv; Putin tells Macron that Moscow’s goals for the war remained unchanged",
+            "url": "https://www.wsj.com/articles/russian-forces-advance-in-southern-ukraine-ahead-of-cease-fire-talks-11646307424",
+            "urlToImage": "https://images.wsj.net/im-497201/social",
+            "publishedAt": "2022-03-03T16:06:00Z",
+            "content": "KYIV, UkraineRussia deepened its military offensive in southern Ukraine, penetrating the city of Kherson and pushing toward Zaporizhya, as the two sides resumed cease-fire talks after Moscows week-ol… [+401 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TMZ"
+            },
+            "author": "TMZ Staff",
+            "title": "Shanna Moakler Announces Pregnancy Week After BF's Arrest - TMZ",
+            "description": "Shanna Moakler is pregnant with her 4th child,this following the arrest of her boyfriend Matthew Rondeau.",
+            "url": "https://www.tmz.com/2022/03/03/shanna-moakler-pregnant-bf-matthew-rondeau-domestic-violence-arrest/",
+            "urlToImage": "https://imagez.tmz.com/image/e2/16by9/2022/03/03/e214483bc53c442ebc41db783f8431e7_xl.jpg",
+            "publishedAt": "2022-03-03T15:43:00Z",
+            "content": "Shanna Moakler's traumatic week is taking a huge turn -- she just announced she's pregnant with her 4th child, days after her boyfriend Matthew Rondeau was arrested for allegedly hitting her.\r\nShanna… [+988 chars]"
+        }
+    ]
+}
