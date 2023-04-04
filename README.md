@@ -1,3 +1,5 @@
+# Used newscatchers api to fetch the latest news articles, link - https://app.newscatcherapi.com/dashboard/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
